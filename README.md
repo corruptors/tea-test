@@ -1,3 +1,3 @@
-''Tea Testnet''
+```tea testnet```
 
-''Register OSS Project''
+```register OSS Project```
