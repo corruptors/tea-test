@@ -1,3 +1,3 @@
-```tea testnet```
+For `tea testnet`
 
-```register OSS Project```
+To `register OSS Project`
